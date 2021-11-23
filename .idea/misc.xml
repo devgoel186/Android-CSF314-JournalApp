@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Codes/SDPD/journal-app/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Codes/SDPD/journal-app/app/src/main/res/layout/fragment_blank.xml" value="0.27447916666666666" />
+        <entry key="..\:/Codes/SDPD/journal-app/app/src/main/res/layout/fragment_entry.xml" value="0.27447916666666666" />
+        <entry key="..\:/Codes/SDPD/journal-app/app/src/main/res/layout/fragment_entry_details.xml" value="0.27447916666666666" />
+        <entry key="..\:/Codes/SDPD/journal-app/app/src/main/res/layout/fragment_entry_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/Codes/SDPD/journal-app/app/src/main/res/layout/fragment_info.xml" value="0.27447916666666666" />
+        <entry key="..\:/Codes/SDPD/journal-app/app/src/main/res/menu/menu_entry_detail.xml" value="0.14375" />
+        <entry key="..\:/Codes/SDPD/journal-app/app/src/main/res/menu/menu_entry_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/goeld/Desktop/Tech/Android Projects/a3/app/src/main/res/layout/activity_main.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/goeld/Desktop/Tech/Android Projects/a3/app/src/main/res/layout/fragment_entry.xml" value="0.1" />
+        <entry key="..\:/Users/goeld/Desktop/Tech/Android Projects/a3/app/src/main/res/layout/fragment_entry_details.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/goeld/Desktop/Tech/Android Projects/a3/app/src/main/res/layout/fragment_entry_list.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/goeld/Desktop/Tech/Android Projects/a3/app/src/main/res/layout/fragment_info.xml" value="0.15677083333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.246875" />
+        <entry key="app/src/main/res/layout/fragment_date_picker.xml" value="0.2569230769230769" />
+        <entry key="app/src/main/res/layout/fragment_entry.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/fragment_entry_details.xml" value="0.26979166666666665" />
+        <entry key="app/src/main/res/layout/fragment_entry_list.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/fragment_time_picker.xml" value="0.2569230769230769" />
+        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.13489583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

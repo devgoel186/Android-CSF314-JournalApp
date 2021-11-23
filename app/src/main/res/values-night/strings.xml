@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="add_entry">Add a new entry</string>
+  <string name="title_label">Title</string>
+  <string name="date">Date</string>
+  <string name="start_time">Start Time</string>
+  <string name="end_time">End Time</string>
+  <string name="save_label">Save</string>
+  <string name="to">To</string>
+  <string name="record_entry">Record Entry</string>
+    <string name="journal_app">Journal App</string>
+  <string name="this_app_allows_users_to_record_their_day_to_day_activities_it_uses_the_room_database_architecture_components_and_fragments">This app allows users to record their day to day activities. It uses the Room database, Architecture components, and Fragments.</string>
+</resources>
